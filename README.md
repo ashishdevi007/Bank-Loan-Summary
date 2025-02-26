@@ -47,7 +47,7 @@ This project focuses on analyzing key banking KPIs related to **loan application
 ## 🔧 How to Run the Project
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/your-username/banking-loan-analytics.git
+   git clone https://github.com/ashishdevi007/Bank-Loan-Summary.git
    ```
 2. **Set Up SQL Database:**  
    - Run the scripts in `SQL_Scripts/` to create and populate the database.
@@ -60,4 +60,4 @@ This project focuses on analyzing key banking KPIs related to **loan application
 Would love to hear your thoughts! If you have suggestions or want to contribute, feel free to **fork & pull request**. 🚀
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://www.linkedin.com/in/ashish-devi-7323a6227/)
