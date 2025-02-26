@@ -60,4 +60,4 @@ This project focuses on analyzing key banking KPIs related to **loan application
 Would love to hear your thoughts! If you have suggestions or want to contribute, feel free to **fork & pull request**. 🚀
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/ashish-devi-7323a6227/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ashish-devi-7323a6227/)
